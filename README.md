@@ -2,8 +2,8 @@
 - 🔭 I’m currently working on 25sprout(SurveyCake)
 - 🌱 I’m currently learning algorithm / web knowledge / AWS 
 - :computer: Core Skills: PHP, Laravel Framework, Python, Mysql, RESTful API
-- :v: Skills: Unit&Feature Testing, AWS Services, Gitlab CI/CD, Laradock, Design Pattern, ORM
-- :wrench: Tools: Git Flow, Postman,  XDebug
+- :v: Skills: Docker, Unit&Feature Testing, AWS Services, Gitlab CI/CD, Design Pattern
+- :wrench: Tools: Git Flow, Postman
 - :blue_book: Medium: https://medium.com/@ms0680146
 - 📫 Email: ms0680146@gmail.com
 

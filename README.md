@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Andy
-- 🔭 I’m currently working as a backend developer in 25sprout(SurveyCake)
+- 🔭 Backend Developer @25sprout (SurveyCake)
 - 🌱 I’m currently learning algorithm / web knowledge / AWS 
 - :computer: Core Skills: PHP, Laravel Framework, Python, Django Framework, Mysql, Mariadb
 - :v: Skills: Docker, Unit&Feature Testing, RESTful API, AWS Services, Design Pattern
